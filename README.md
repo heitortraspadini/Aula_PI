@@ -1,2 +1,4 @@
 # Aula_PI
-Meu repositório da aula de pi
+Meu repositório da aula de PI
+
+Minha primeira alteração na aula de PI - repositório local
